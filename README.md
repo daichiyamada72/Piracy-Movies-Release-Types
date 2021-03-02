@@ -1,13 +1,12 @@
 # <B>Piracy Movies Release Types</B>
 
-Low quality
+<h3>Low Quality</h3>
 
 Camrip
 Camrip   or-as the name suggests, this video was shot. On   the screen of an ordinary camera cinema. Often in this case, there are a lot of images in the video. When watching, you can see the heads of people entering the cinema and hear the laughter and opinions of the hall. These videos are related to the fact that they are shot within the first day of rental with a small video camera installed next to one of the viewers. To be clearer-go to the cinema and shoot a video with your smartphone and you will have CamRIP.
 
-
 TS
-Next visit TS   (TeleSync). This is the same screen, but the shooting principle is slightly different. In this case, the picture improved a bit. As used   , a digital camera standing in a professional empty room. In this case, the sound is written directly from the broadcast equipment. The most commonly used sound is stereo.
+TS   (TeleSync). This is the same screen, but the shooting principle is slightly different. In this case, the picture improved a bit. As used   , a digital camera standing in a professional empty room. In this case, the sound is written directly from the broadcast equipment. The most commonly used sound is stereo.
 
 VHSRip
 Video VHS- Lip As the name implies- video tape . This is often seen when viewing artifacts, stripes, and points. It depends on the safety of the cassette.
@@ -25,7 +24,7 @@ Another option DVDScr   -the same applies to SCR but dVD . The photo might be go
 TC
 The following format is as follows: TC   or, ended up with a movie. It is used. Professional   equipment-written directly from a film scanner or projector. Characterized by good sound   and quality although the latter is highly dependent on the equipment.
 
-Medium and good quality
+<h3>Medium and good Quality</h3>
 
 LDRip
 Or LDRip   -it doesn't really happen anymore. This is a copy made with. Laser disc .
@@ -54,7 +53,7 @@ DVD   -Full digital copy of the disc. It is currently losing popularity and losi
 DVD fit
 Rip DVD to Format Custom   -Create Disc by Yourself . Such discs are made by professionals and amateurs and are never published. Also here is the recompiled DVD. Titles, bonuses or other material have been removed from the disc.
 
-Great quality
+<h3>Great Quality<h3>
 
 Hdrip
 Quality Hdrip   -From Any Source   Starts at high definition 720p. It does not contain content extracted from HDTV or other unknown sources. Photos are better than DVDRip.
@@ -69,7 +68,7 @@ Like the previous format, Hd DVDRip   compressed from hddvd, but the quality SD 
 Bdrip
 This format is the original Blu - ray   or BDRemux . Usually compressed Hd SD is less. The quality is slightly worse than the original.
 
-Best quality
+<h3>Best Quality</h3>
 
 HDTV
 HDTV   -the worst high-definition format. As the name implies, TV is broadcast in high definition. In most cases, color reproduction is due to the quality of the signal transmission, and artifacts occur. Nevertheless, HDTV can provide better photos than DVD.
@@ -89,7 +88,7 @@ You can get it by rebuilding container blu ray format ts or mkv. BDRemux . It pr
 Blu-ray Disc, BD
 Blu-ray discs have a high track density, so they can record high-definition video in FullHD 1080 p . The format includes removing a full copy of that disk.
 
-[[Additional designation]]
+<h3>Additional designation</h3>
 
 In addition to the above, there are a few symbols that have nothing to do with image quality.
 
